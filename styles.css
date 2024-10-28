@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #EEF4F0;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+h1 {
+    text-align: center;
+    color:black;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color:green;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    
+}
+
+#courseList {
+    margin-top: 20px;
+}
+img{
+  width: 200px;
+  border-radius:100px;
+}
+.headstyle{
+  color:green;
+}
+.dev{
+  width: 10px;
+  height: 5px;
+  border-radius: 50px;
+}
