@@ -2,7 +2,7 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: Arial,Sans-Serif;
+  font-family:Times New Roman;
 }
 body{
   background-color: #EEF4F0;
@@ -35,6 +35,7 @@ header{
 
   height: 100px;
   margin-bottom: 20px;
+  border-left-style: solid;
 }
 footer{
   text-align: center;
@@ -70,3 +71,11 @@ footer ,p{
 a{
   text-decoration: none;
 }
+.developer{
+  color: red;
+  text-align: center;
+  font-family: Verdana;
+}
+.dev{
+  float: top;
+    }
