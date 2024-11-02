@@ -544,7 +544,7 @@ Object.keys(data).forEach(state => {
 // Handle state selection
 stateSelect.addEventListener('change', function() {
     const selectedState = this.value;
-    lgaSelect.innerHTML = '<option value="">--Select LGA--</option>';
+    lgaSelect.innerHTML = '<option value="">Select LGA</option>';
     courseList.innerHTML = '';
 
     if (selectedState) {
