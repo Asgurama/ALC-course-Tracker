@@ -36,6 +36,9 @@ header{
   height: 100px;
   margin-bottom: 20px;
   border-left-style: solid;
+  border-bottom-right-radius: 50px;
+  border-right-color:green;
+  border-right-style: solid;
 }
 footer{
   text-align: center;
@@ -78,4 +81,4 @@ a{
 }
 .dev{
   float: top;
-    }
+  }
