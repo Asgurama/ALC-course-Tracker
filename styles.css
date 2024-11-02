@@ -14,6 +14,10 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-bottom-right-radius: 40px;
     border-right-style: solid;
+    border-right-color: green;
+    border-left-style: solid;
+    border-left-width:10px;
+    border-left-color: green;
   
 }
 
