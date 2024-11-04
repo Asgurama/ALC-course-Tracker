@@ -75,9 +75,11 @@ a{
   text-decoration: none;
 }
 .developer{
-  color: red;
-  text-align: center;
+  color: black;
   font-family: Verdana;
+  text-align: left;
 }
 .dev{
+margin-right: 500px;
+border: solid;
   }
