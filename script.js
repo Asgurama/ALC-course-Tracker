@@ -467,12 +467,6 @@ const data = {
         ],
     },
     Sokoto: {
-        "Port-Harcourt": [
-            "UI/UX", "Product Management", "Data Analysis & Visualization",
-            "Cloud Computing", "Animation", "Quality Assurance",
-            "Software Development", "Cyber Security", "Data Science",
-            "AI/ML", "DevOps", "Game Development"
-        ],
         "Sokoto South": [
             "Software Development", "Product Management", "DevOps",
             "Game Development", "UI/UX", "Quality Assurance", "AI/ML",
